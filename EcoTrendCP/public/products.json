@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Camiseta Orgânica EcoFit",
+    "name": "Camiseta Orgânica EcoClothes",
     "description": "Algodão orgânico, tingimento natural, produção justa.",
     "price": 129.90,
     "category": "Roupas",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "name": "Garrafa Reutilizável Inox 750ml",
+    "name": "Garrafa Biodegradável 750ml EcoHouse",
     "description": "Mantém a temperatura e reduz o plástico descartável.",
     "price": 99.00,
     "category": "Casa",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "name": "Escova de Bambu",
+    "name": "Escova de Bambu EcoBeauty",
     "description": "Cerdas macias de origem vegetal, embalagem zero plástico.",
     "price": 24.50,
     "category": "Beleza",
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "name": "Detergente Ecológico Concentrado",
+    "name": "Detergente Ecológico EcoHouse",
     "description": "Biodegradável e hipoalergênico, alto rendimento.",
     "price": 36.90,
     "category": "Casa",
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "name": "Mochila Reciclada Urban Eco",
+    "name": "Mochila Reciclada Urban EcoWearable",
     "description": "Feita com PET reciclado, resistente e leve.",
     "price": 249.00,
     "category": "Acessórios",
@@ -41,7 +41,7 @@
   },
   {
     "id": 6,
-    "name": "Shampoo Sólido Natural",
+    "name": "Shampoo Natural EcoBeauty",
     "description": "Sem sulfatos, embalado em papel reciclado.",
     "price": 42.00,
     "category": "Beleza",
@@ -49,7 +49,7 @@
   },
   {
     "id": 7,
-    "name": "Painel Solar Portátil 20W",
+    "name": "Painel Solar Portátil EcoGreen",
     "description": "Carregue seus dispositivos com energia solar limpa.",
     "price": 499.00,
     "category": "Tecnologia Verde",
@@ -57,7 +57,7 @@
   },
   {
     "id": 8,
-    "name": "Canudo Inox Dobrável",
+    "name": "Canudo Inox Dobrável EcoWearable",
     "description": "Acompanha estojo, fácil de limpar e transportar.",
     "price": 29.90,
     "category": "Acessórios",
@@ -65,7 +65,7 @@
   },
   {
     "id": 9,
-    "name": "Sabonete Natural de Argila",
+    "name": "Sabonete de Argila EcoBeauty",
     "description": "Ingredientes naturais, sem testes em animais.",
     "price": 18.90,
     "category": "Beleza",

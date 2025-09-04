@@ -12,7 +12,7 @@ html,body,#root{height:100%}
 body{
   margin:0;
   font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, 'Helvetica Neue', Arial;
-  background:linear-gradient(180deg, #0b0f0c, #0f1411);
+  background:linear-gradient(180deg, #03240b, #000803);
   color:var(--text);
 }
 a{color:inherit;text-decoration:none}
