@@ -1,12 +1,49 @@
-# React + Vite
+# EcoTrend — E-commerce Sustentável (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Trabalho acadêmico (**Check Point 04**) com os requisitos:
+- Manipulação do DOM (carrinho dinâmico + filtros);
+- Storage e JSON (`localStorage` para carrinho; produtos via JSON);
+- Requisições assíncronas com `fetch` (carregar produtos);
+- Promises/async/await (checkout simulado + loading spinner).
 
-Currently, two official plugins are available:
+## Tecnologias
+- React + Vite
+- Font Awesome (ícones) e Google Fonts
+- localStorage, fetch e Promises
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Como rodar localmente
+```bash
+npm install
+npm run dev
+# abra o endereço indicado pelo Vite
+```
 
-## Expanding the ESLint configuration
+## Build de produção
+```bash
+npm run build
+npm run preview
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Deploy
+### Vercel
+- Importar o repositório na Vercel e selecionar framework **Vite**.
+- A Vercel detecta automaticamente os comandos de build e output.
+
+> A aplicação busca `public/products.json` via `fetch`, então não requer backend.
+
+## Estrutura
+```
+public/products.json
+src/
+  components/ (ProductCard, ProductList, Filters, Cart)
+  context/CartContext.jsx (estado global do carrinho + localStorage)
+  hooks/useLocalStorage.js
+  services/api.js (fetch + checkout com Promise)
+  App.jsx, main.jsx, styles.css
+index.html
+```
+
+## Grupo / Créditos
+- **EcoTrend** — Projeto acadêmico
+- Integrante: Vitor Mezzanotte Constante - RM: 562051 
+- Professor: Lucas Sousa
