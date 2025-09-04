@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Camiseta Orgânica EcoFit",
+    "description": "Algodão orgânico, tingimento natural, produção justa.",
+    "price": 129.90,
+    "category": "Roupas",
+    "image": ""
+  },
+  {
+    "id": 2,
+    "name": "Garrafa Reutilizável Inox 750ml",
+    "description": "Mantém a temperatura e reduz o plástico descartável.",
+    "price": 99.00,
+    "category": "Casa",
+    "image": ""
+  },
+  {
+    "id": 3,
+    "name": "Escova de Bambu",
+    "description": "Cerdas macias de origem vegetal, embalagem zero plástico.",
+    "price": 24.50,
+    "category": "Beleza",
+    "image": ""
+  },
+  {
+    "id": 4,
+    "name": "Detergente Ecológico Concentrado",
+    "description": "Biodegradável e hipoalergênico, alto rendimento.",
+    "price": 36.90,
+    "category": "Casa",
+    "image": ""
+  },
+  {
+    "id": 5,
+    "name": "Mochila Reciclada Urban Eco",
+    "description": "Feita com PET reciclado, resistente e leve.",
+    "price": 249.00,
+    "category": "Acessórios",
+    "image": ""
+  },
+  {
+    "id": 6,
+    "name": "Shampoo Sólido Natural",
+    "description": "Sem sulfatos, embalado em papel reciclado.",
+    "price": 42.00,
+    "category": "Beleza",
+    "image": ""
+  },
+  {
+    "id": 7,
+    "name": "Painel Solar Portátil 20W",
+    "description": "Carregue seus dispositivos com energia solar limpa.",
+    "price": 499.00,
+    "category": "Tecnologia Verde",
+    "image": ""
+  },
+  {
+    "id": 8,
+    "name": "Canudo Inox Dobrável",
+    "description": "Acompanha estojo, fácil de limpar e transportar.",
+    "price": 29.90,
+    "category": "Acessórios",
+    "image": ""
+  },
+  {
+    "id": 9,
+    "name": "Sabonete Natural de Argila",
+    "description": "Ingredientes naturais, sem testes em animais.",
+    "price": 18.90,
+    "category": "Beleza",
+    "image": ""
+  }
+]
